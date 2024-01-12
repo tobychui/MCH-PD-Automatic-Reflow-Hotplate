@@ -103,4 +103,4 @@ In case the Serial mode is not working due to some driver conflict or Windows bu
 
 ## License
 
-CC BY-ND-SA
+CC BY-NC-SA
