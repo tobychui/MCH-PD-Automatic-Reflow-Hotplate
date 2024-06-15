@@ -51,7 +51,7 @@ After stage 6 is completed and you have removed the PCB from the  hotplate, pres
 | Solder Paste                        | Sn63Pb37 (Reflow profile editable in source code w/ Arduino IDE) |
 
 ## Gallery 
-
+### v2 Hotplates (Original)
 ![](photo/1.jpg)
 
 ![](photo/2.jpg)
@@ -63,6 +63,11 @@ After stage 6 is completed and you have removed the PCB from the  hotplate, pres
 ![](photo/5.jpg)
 
 ![](photo/6.jpg)
+
+### v6/7 Hotplates
+![title](https://github.com/tobychui/MCH-PD-Automatic-Reflow-Hotplate/assets/24617523/8524ffd2-5e0f-4313-bb5c-98a8c52c2d89)
+
+See more over [here](https://github.com/tobychui/MCH-PD-Automatic-Reflow-Hotplate/wiki/Introduction-to-the-v6-Hotplate!)
 
 ## Programming
 
