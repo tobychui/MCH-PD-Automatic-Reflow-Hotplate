@@ -13,6 +13,9 @@ This is a DIY, low cost PD powered reflow hotplate that uses metal ceramic heate
 - Open Source
 - Fully automatic, just hold and press "START" and wait for the reflow to complete
 
+## Ready to Use Hotplate
+You can get a prototype from my [Tindie store](https://www.tindie.com/products/tobychui/tobys-automatic-mch-pd-reflow-hotplate/) 
+
 ## Quick Start
 
 1. Power up your reflow hotplate with 60W or above PD charger (PD power bank works as well)
