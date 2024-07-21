@@ -38,6 +38,12 @@ You can get a prototype from my [Tindie store](https://www.tindie.com/products/t
 
 After stage 6 is completed and you have removed the PCB from the  hotplate, press STOP once to reset the stage to 1. You can also press  STOP anytime you think it is suitable, including early stopping if your  PCB is small and do not require that much temperature in the reflow  stage.
 
+## Desolder Mode
+This mode was added since the v6 revision of the hotplate. **Older version of the hotplates are not compatible with this new firmware.**
+
+In case you want to desolder something that you misplaced or recover components from damaged PCB, you can press and hold "START" + "STOP" for 5 seconds until the yellow LED start fast blinking. 
+Then the reflow hotplate will enter desolder mode and keep at reflow temperature for 5 minutes.
+
 ## Specifications
 
 | properties                          | Value                                                        |
